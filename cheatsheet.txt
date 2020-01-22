@@ -1,0 +1,9 @@
+echo is for repeating things
+cat is for reading text files
+
+
+ls
+lists files and folders in a directory
+
+cd ~
+change directory to home folder
